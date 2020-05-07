@@ -148,6 +148,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     sdm.debug.disable_skip_validate=1 \
     persist.hwc.enable_vds=1 \
     ro.vendor.display.cabl=0 \
+    debug.hwui.renderer=skiavk \
 
 # DRM
 PRODUCT_PROPERTY_OVERRIDES += \
