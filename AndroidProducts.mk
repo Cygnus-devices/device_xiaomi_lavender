@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/stag_lavender.mk
+    $(LOCAL_DIR)/cygnus_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    stag_lavender-user \
-    stag_lavender-userdebug \
-    stag_lavender-eng
+    cygnus_lavender-user \
+    cygnus_lavender-userdebug \
+    cygnus_lavender-eng
