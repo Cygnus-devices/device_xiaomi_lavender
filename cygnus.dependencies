@@ -19,20 +19,20 @@
   },
   {
     "remote"     : "github",
-    "repository" : "AOSPA/android_hardware_qcom_audio.git",
+    "repository" : "Cygnus-devices/hardware_qcom_audio",
     "target_path": "vendor/qcom/audio-hal/primary-hal",
-    "branch": "quartz-8998"
+    "branch": "caf-ten-msm8998"
   },
   {
     "remote"     : "github",
-    "repository" : "AOSPA/android_hardware_qcom_display",
+    "repository" : "Cygnus-devices/hardware_qcom_display",
     "target_path": "hardware/qcom/display",
-    "branch": "quartz-8998"
+    "branch": "caf-ten-msm8998"
   },
   {
     "remote"     : "github",
-    "repository" : "AOSPA/android_hardware_qcom_media.git",
+    "repository" : "Cygnus-devices/hardware_qcom_media",
     "target_path": "hardware/qcom/media",
-    "branch": "quartz-8998"
+    "branch": "caf-ten-msm8998"
   }
 ]
