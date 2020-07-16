@@ -1,0 +1,38 @@
+[
+  {
+    "remote"     : "github",
+    "repository" : "Cygnus-devices/vendor_xiaomi_lavender",
+    "target_path": "vendor/xiaomi/lavender",
+    "branch": "ten"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "stormbreaker-project/android_kernel_xiaomi_lavender",
+    "target_path": "kernel/xiaomi/lavender",
+    "branch": "oldcam-rebase"
+  },
+  {
+    "remote"     : "github",   
+	"repository": "ConquerOS/device_qcom_sepolicy-legacy-um",
+	"target_path": "device/qcom/sepolicy-legacy-um",
+	"branch": "ten"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "AOSPA/android_hardware_qcom_audio.git",
+    "target_path": "vendor/qcom/audio-hal/primary-hal",
+    "branch": "quartz-8998"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "AOSPA/android_hardware_qcom_display",
+    "target_path": "hardware/qcom/display",
+    "branch": "quartz-8998"
+  },
+  {
+    "remote"     : "github",
+    "repository" : "AOSPA/android_hardware_qcom_media.git",
+    "target_path": "hardware/qcom/media",
+    "branch": "quartz-8998"
+  }
+]
