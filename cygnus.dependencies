@@ -7,9 +7,9 @@
   },
   {
     "remote"     : "github",
-    "repository" : "stormbreaker-project/android_kernel_xiaomi_lavender",
+    "repository" : "Cygnus-devices/kernel_xiaomi_lavender",
     "target_path": "kernel/xiaomi/lavender",
-    "branch": "oldcam-rebase"
+    "branch": "oldcam"
   },
   {
     "remote"     : "github",   
