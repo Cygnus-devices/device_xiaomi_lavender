@@ -31,6 +31,12 @@
   },
   {
     "remote"     : "github",
+    "repository" : "cygnus-rom/vendor_qcom_opensource_fm-commonsys",
+    "target_path": "vendor/qcom/opensource/fm-commonsys",
+    "branch": "caf-ten"
+  },
+  {
+    "remote"     : "github",
     "repository" : "Cygnus-devices/hardware_qcom_media",
     "target_path": "hardware/qcom/media",
     "branch": "caf-ten-msm8998"
