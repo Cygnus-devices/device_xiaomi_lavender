@@ -159,9 +159,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.configstore@1.1-service
     
-PRODUCT_PACKAGES += \
-    XiaomiParts \
-    XiaomiDoze
+# Device-specific settings
+#PRODUCT_PACKAGES += \
+#    XiaomiParts
 
 # Display
 PRODUCT_PACKAGES += \
