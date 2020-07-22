@@ -10,6 +10,8 @@ $(call inherit-product, vendor/xiaomi/lavender/lavender-vendor.mk)
 # Setup dalvik vm configs
 $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
 
+$(call inherit-product, vendor/xiaomi/lavender/perf/perf-vendor.mk)
+
 # GoogleCamera
 $(call inherit-product-if-exists, packages/apps/GoogleCamera/gcam.mk)
 
@@ -362,6 +364,11 @@ PRODUCT_PACKAGES += \
 # Power
 PRODUCT_PACKAGES += \
     android.hardware.power@1.2-service-qti
+
+PRODUCT_BOOT_JARS += \
+    QPerformance \
+    UxPerformance
+
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/perf/perf-profile0.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf/perf-profile0.conf
