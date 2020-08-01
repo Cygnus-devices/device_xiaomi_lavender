@@ -3,7 +3,7 @@
     "remote"     : "github",
     "repository" : "Cygnus-devices/vendor_xiaomi_lavender",
     "target_path": "vendor/xiaomi/lavender",
-    "branch": "ten"
+    "branch": "caf-ten"
   },
   {
     "remote"     : "github",
