@@ -40,7 +40,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.audio.hifi.int_codec=true \
     persist.vendor.audio.hw.binder.size_kbyte=1024 \
     ro.af.client_heap_size_kbyte=7168 \
-	vendor.fm.a2dp.conc.disabled=true
+	vendor.fm.a2dp.conc.disabled=true \
+    ro.config.media_vol_default=8 \
+    ro.config.media_vol_steps=25 \
+    ro.config.vc_call_vol_default=5 \
+    ro.config.vc_call_vol_steps=6 \
 
 # Audio dynamic feature flags
 PRODUCT_PROPERTY_OVERRIDES += \
