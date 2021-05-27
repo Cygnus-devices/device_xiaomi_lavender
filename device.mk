@@ -476,3 +476,6 @@ PRODUCT_PACKAGES += \
 	libnl \
 	libaacwrapper \
 	libwfdaac
+
+# QTI Perf Component
+TARGET_COMMON_QTI_COMPONENTS := perf
