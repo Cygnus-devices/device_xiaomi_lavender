@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lavender.mk
+    $(LOCAL_DIR)/p404_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_lavender-user \
-    lineage_lavender-userdebug \
-    lineage_lavender-eng
+    p404_lavender-user \
+    p404_lavender-userdebug \
+    p404_lavender-eng
