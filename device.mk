@@ -22,7 +22,7 @@ PRODUCT_PACKAGES += \
 BOARD_HAVE_IR := true
 
 # FM
-BOARD_HAVE_QCOM_FM := true
+BOARD_HAVE_QCOM_FM := false
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
