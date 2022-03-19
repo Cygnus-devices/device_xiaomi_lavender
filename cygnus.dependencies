@@ -3,54 +3,48 @@
     "remote": "Cygnus-devices",
     "repository": "device_xiaomi_lavender",
     "target_path": "device/xiaomi/lavender",
-    "branch": "caf-11"
+    "branch": "caf-12"
   },
   {
     "remote": "Cygnus-devices",
     "repository": "device_xiaomi_sdm660-common",
     "target_path": "device/xiaomi/sdm660-common",
-    "branch": "caf-11"
+    "branch": "caf-12"
   },
   {
     "remote": "Cygnus-devices",
     "repository":  "kernel_xiaomi_lavender",
     "target_path": "kernel/xiaomi/sdm660",
-    "branch": "caf-11"
+    "branch": "caf-12"
   },
   {
     "remote": "Cygnus-devices",
     "repository": "vendor_xiaomi_lavender",
     "target_path": "vendor/xiaomi/lavender",
-    "branch": "caf-11"
+    "branch": "caf-12"
   },
   {
     "remote": "Cygnus-devices",
     "repository": "vendor_xiaomi_sdm660-common",
     "target_path": "vendor/xiaomi/sdm660-common",
-    "branch": "caf-11"
+    "branch": "caf-12"
   },
   {
     "remote": "Cygnus-devices",
     "repository": "hardware_qcom_media",
     "target_path": "hardware/qcom/media",
-    "branch": "caf-11-msm8998"
+    "branch": "caf-12-msm8998"
   },
   {
     "remote": "Cygnus-devices",
     "repository": "hardware_qcom_display",
     "target_path": "hardware/qcom/display",
-    "branch": "caf-11-msm8998"
+    "branch": "caf-12-msm8998"
   },
   {
     "remote": "Cygnus-devices",
     "repository": "vendor_qcom_opensource_audio-hal_primary-hal",
     "target_path": "vendor/qcom/opensource/audio-hal/primary-hal",
-    "branch": "caf-11-msm8998"
+    "branch": "caf-12-msm8998"
   },
-  {
-    "remote": "Cygnus-devices",
-    "repository": "android_vendor_qcom_opensource_commonsys-intf_display",
-    "target_path": "vendor/qcom/opensource/commonsys-intf/display",
-    "branch": "caf-11-msm8998"
-  }
 ]
