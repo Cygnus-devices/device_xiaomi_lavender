@@ -58,5 +58,12 @@
     "repository": "android_device_xiaomi_extras",
     "target_path": "device/xiaomi/extras",
     "branch": "caf-12"
+  },
+  {
+    "remote": "Cygnus-devices",
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "caf-12"
   }
+  
 ]
