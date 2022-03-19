@@ -47,4 +47,16 @@
     "target_path": "vendor/qcom/opensource/audio-hal/primary-hal",
     "branch": "caf-12-msm8998"
   },
+  {
+    "remote": "Cygnus-devices",
+    "repository": "android_device_qcom_sepolicy-legacy-um",
+    "target_path": "device/qcom/sepolicy-legacy-um",
+    "branch": "caf-12"
+  },
+  {
+    "remote": "Cygnus-devices",
+    "repository": "android_device_xiaomi_extras",
+    "target_path": "device/xiaomi/extras",
+    "branch": "caf-12"
+  }
 ]
