@@ -52,5 +52,7 @@ TARGET_RELEASETOOLS_EXTENSIONS := $(DEVICE_PATH)
 # Security patch level
 VENDOR_SECURITY_PATCH := 2021-06-01
 
+SELINUX_IGNORE_NEVERALLOWS := true
+
 # Inherit the proprietary files
 include vendor/xiaomi/lavender/BoardConfigVendor.mk
