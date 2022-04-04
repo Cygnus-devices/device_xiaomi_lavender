@@ -42,8 +42,8 @@
     "branch": "caf-12-msm8998"
   },
   {
-    "remote": "Cygnus-devices",
-    "repository": "vendor_qcom_opensource_audio-hal_primary-hal",
+    "remote": "github",
+    "repository": "susandahal/vendor_qcom_opensource_audio-hal_primary-hal",
     "target_path": "vendor/qcom/opensource/audio-hal/primary-hal",
     "branch": "caf-12-msm8998"
   },
